@@ -11,5 +11,9 @@
 2. ***[Deploy on Replit](https://replit.com/github/vihangayt0/Astro-MD-V7-Replit).*** ***[[Tutorial]](https://youtu.be/rMycIWfmVQ4)***
 3. ***Add Bot Website To Uptimer From [Here](https://uptimerobot.com/).***
 
+### IM DILNETHU
 
-   ```Thanks Fro using Astro-MD```
+   ```Thanks Fro using Arrow MD```
+   
+   this is a branch of astro md
+   
