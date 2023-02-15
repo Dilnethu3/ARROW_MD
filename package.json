@@ -1,5 +1,5 @@
 {
-  "name": "Astro-Md",
+  "name": "Arrow-Md",
   "version": "7.0.0",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
@@ -16,8 +16,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
+"author": "Dilnethu",
+"developer": "Dilnethu",
 "homepage": "https://github.com/vihangayt0/Astro-MD-V6",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
