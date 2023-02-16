@@ -11,14 +11,14 @@
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/vihangayt0/Astro-MD-V6.git"
+"url": "git+https://github.com/Dilnethu3/ARROW_MD.git"
 },
 "keywords": [
 "whatsapp"
 ],
 "author": "Dilnethu",
 "developer": "Dilnethu",
-"homepage": "https://github.com/vihangayt0/Astro-MD-V6",
+"homepage": "https://github.com/Dilnethu3/ARROW_MD.git",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
 "pino": "^7.0.5",
